@@ -2,7 +2,7 @@ telegram:
   bot:
     username: NeiraPostBot
     token: 7747264070:AAHJcU01Tcscp6gLR5dtOaDqnv2G11lklZ4
-    moderatorChatIds: 958370128,340875702
+    moderatorChatIds: 340875702
 #telegram:
 #  bot:
 #    username: Misha_PUK_PUK_bot
